@@ -9,7 +9,7 @@ from src.components.dialog_auto_enroll import auto_enroll_dialog
 def main():
 
     st.set_page_config(
-        page_title='SnapClass - Making Attendance faster using AI',
+        page_title='AttendSmart - Making Attendance faster using AI',
         page_icon="https://i.ibb.co/HLRt0Cy4/Logo-Smart-Attend.png"
     )
 
